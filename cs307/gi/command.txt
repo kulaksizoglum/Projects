@@ -1,0 +1,1 @@
+man grep | grep -A 3 -- "-q" > output.txt
